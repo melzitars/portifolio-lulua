@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Playfair+Display', serif;
+    font-family: 'Playfair+Display', monospaced;
 }
 
 h1, h2, h5 {
