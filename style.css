@@ -1,0 +1,24 @@
+@import url('https://fonts.google.com/share?selection.family=Comfortaa:wght@300..700');
+
+:root {
+    --cor-principal: #0412EF;
+    --cor-secundaria: #B059ED;
+    --cor-destaque: #8F09ED;
+}
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h1, h2, h5 {
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+
+footer a {
+    color: var(--cor-principal)
+}
+
+footer a:hover {
+    color: var(--cor-destaque);
+}
